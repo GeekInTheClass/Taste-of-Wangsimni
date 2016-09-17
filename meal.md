@@ -2,7 +2,7 @@
 
 ##1. the진국24시
 
-<img src="https://s3-ap-northeast-2.amazonaws.com/locawiki/spot/76_thumb_jinguk.png"/>
+<img src="https://s3-ap-northeast-2.amazonaws.com/locawiki/geek/76_thumb_jinguk.png"/>
 
 24시간 영업하는 국밥집이다.
 근처의 ~~경쟁사~~ 할매순대국이 문을 닫아버려서 매출이 오르지 않았을까..

@@ -10,4 +10,4 @@
 
 <img src="https://s3-ap-northeast-2.amazonaws.com/locawiki/geek/127_img0_baekbeon.jpg" width="33%"/>
 
-크고 아름다운 잔에 나오는 칵테일소주가 포인트!
+**크고 아름다운** 잔에 나오는 칵테일소주가 포인트!

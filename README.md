@@ -6,6 +6,7 @@
 #파일 구성
 - **[README.md](https://github.com/GeekInTheClass/Taste-of-Wangsimni/blob/master/README.md)**
 - **[meal.md](https://github.com/GeekInTheClass/Taste-of-Wangsimni/blob/master/meal.md)**: 밥
+- **[cafeteria.md](https://github.com/GeekInTheClass/Taste-of-Wangsimni/blob/master/cafeteria.md)**: 학식
 - **[chicken.md](https://github.com/GeekInTheClass/Taste-of-Wangsimni/blob/master/chicken.md)**: 치킨
 - **[meat.md](https://github.com/GeekInTheClass/Taste-of-Wangsimni/blob/master/meat.md)**: 고기
 - **[alcohol.md](https://github.com/GeekInTheClass/Taste-of-Wangsimni/blob/master/alcohol.md)**: 술

@@ -30,17 +30,20 @@
 와와 특유의 <strike>인공적인</strike>맛이 있어 호불호가 갈리는 편.
 
 <img src="https://s3-ap-northeast-2.amazonaws.com/locawiki/geek/105_img0_waawaa.jpg" width="33%"/>
+
 현재 일부 메뉴는 가격이 올랐다ㅠㅠ
 
 ##3. 그린분식
 
 <img src="https://s3-ap-northeast-2.amazonaws.com/locawiki/geek/60_thumb_green.png"/>
+
 ~~그린그린~~ ~~고오급레스토랑의 대척점~~
 
 개미굴 중심부에 위치한 분식집이다..
 다양한 메뉴를 갖추고 있어, 무난하게 식사를 해결할 수 있다.
 
 <img src="https://s3-ap-northeast-2.amazonaws.com/locawiki/geek/60_img0_green.jpg" width="33%"/>
+
 현재는 라면을 제외한 전 메뉴가 4000원 이상이다ㅠㅠ
 
 일부 메뉴는 500원을 추가하여 곱배기로 시킬 수 있다.

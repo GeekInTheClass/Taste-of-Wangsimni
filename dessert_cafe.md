@@ -1,6 +1,6 @@
 #디저트/카페
 
-##1. 아리가또
+##1. <a name="arigatto">아리가또</a>
 
 <img src="https://s3-ap-northeast-2.amazonaws.com/locawiki/geek/92_thumb_arigatto.jpg"/>
 

@@ -16,16 +16,16 @@
 일부 메뉴는 500원을 추가하여 곱배기로 시킬 수 있다.<br/>
 약 6-7종의 밑반찬을 뷔페식(?)으로 가져다 먹을 수 있다.
 
-##2. 메이드 인 짬뽕
+##2. <a name="madeinchampong">메이드 인 짬뽕</a>
 
 <img src="https://s3-ap-northeast-2.amazonaws.com/locawiki/geek/153_thumb_madeinchampong.png"/>
 
-~~왕십리 6출에서 가장 가까운 중국집~~
+~~왕십리역 6출에서 가장 가까운 중국집~~
 
 창렬한 다른 중국집 짬뽕들과 다르게 나름 알차다는 느낌이 든다.<br/>
 물론 그런만큼 가격도 센 편으로, 메뉴는 기본 6000원부터 시작한다.
 
-##3. 비야
+##3. <a name="biya">비야</a>
 
 <img src="https://s3-ap-northeast-2.amazonaws.com/locawiki/geek/75_thumb_biya.png"/>
 
@@ -36,7 +36,7 @@
 
 △요렇게 생긴 감자튀김? 같은걸 서비스로 주는데 맛있다!
 
-##4. 와와
+##4. <a name="waawaa">와와</a>
 
 <img src="https://s3-ap-northeast-2.amazonaws.com/locawiki/geek/105_thumb_waawaa.jpg"/>
 
@@ -47,11 +47,11 @@
 
 현재 일부 메뉴는 가격이 올랐다ㅠㅠ
 
-##5. 진국
+##5. <a name="jinguk">진국</a>
 
 <img src="https://s3-ap-northeast-2.amazonaws.com/locawiki/geek/76_thumb_jinguk.png"/>
 
-24시간 영업하는 국밥집이다.<br/>
+<a href="#biya">비야</a> 바로 옆에 위치한, 24시간 영업하는 국밥집이다.<br/>
 근처의 ~~경쟁사~~ 할매순대국이 문을 닫아버려서 매출이 오르지 않았을까..
 
 <img src="https://s3-ap-northeast-2.amazonaws.com/locawiki/geek/76_img0_jinguk.png" width="700px"/>

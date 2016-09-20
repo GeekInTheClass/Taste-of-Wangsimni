@@ -1,6 +1,6 @@
 #술
 
-##1. 백번
+##1. <a name="backbeon">백번</a>
 
 <img src="https://s3-ap-northeast-2.amazonaws.com/locawiki/geek/127_thumb_baekbeon.png"/>
 
@@ -12,7 +12,7 @@
 
 **크고 아름다운** 잔에 나오는 칵테일소주가 포인트!
 
-##2. THE MAN
+##2. <a name="theman">THE MAN</a>
 
 <img src="https://s3-ap-northeast-2.amazonaws.com/locawiki/geek/115_thumb_theman.jpg"/>
 

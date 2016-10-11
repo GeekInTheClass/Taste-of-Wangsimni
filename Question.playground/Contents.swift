@@ -21,6 +21,10 @@ let answer3 = names.sorted(){ $0 < $1 }
 print(answer3)
 // 4. 이름의 마지막 알파벳 순서대로 출력하시오.
 
+let lastAlpha = names.sorted(){
+    $0.characters.last!<$1.characters.last!
+}
+print(lastAlpha)
 
 
 

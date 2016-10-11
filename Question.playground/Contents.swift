@@ -5,12 +5,26 @@ import UIKit
 let names = ["Leonard", "Sheldon", "Penny", "Raju"]
 // 1. 이름을 순서대로 출력하시오
 
+let answer1 = names.map { print($0) }
+
+
 // 2. 이름을 거꾸로 출력하시오
 
-// 3. 이름을 알파벳 순서대로 출력하시오
+let reverse = names.map({
+    String($0.characters.reversed())
+})
+print(reverse)
 
+// 3. 이름을 알파벳 순서대로 출력하시오
+let answer3 = names.sorted(){ $0 < $1 }
+
+print(answer3)
 // 4. 이름의 마지막 알파벳 순서대로 출력하시오.
 
+let lastAlpha = names.sorted(){
+    $0.characters.last!<$1.characters.last!
+}
+print(lastAlpha)
 
 
 

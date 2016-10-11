@@ -1,6 +1,6 @@
 #학식
 
-##1. 신소재공학관 지하
+##1. <a name="sinsojae">신소재공학관 지하</a>
 
 <img src="https://s3-ap-northeast-2.amazonaws.com/locawiki/geek/34_thumb_sinsojae.png"/>
 
